@@ -15,3 +15,9 @@ Version Control System
 - memungkinkan bekerja berkolaborasi dengan lebih baik
 - mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
 - memungkinkan kita untuk kembali ke keadaan sebelum perubahan (checkout)
+
+contoh software version control system : 
+- git
+- subversion
+- mercurial
+- cvs
