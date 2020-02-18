@@ -4,3 +4,8 @@ GIT
 Version Control System 
 disebut juga revision control system atau source code management 
 adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website, dan kumpulan informasi lain.
+
+Manfaat menggunakan VCS : 
+1. Melacak versi/histori dari perubahan source code
+2. kolaborasi
+3. sharing
