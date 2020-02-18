@@ -9,3 +9,9 @@ Manfaat menggunakan VCS :
 1. Melacak versi/histori dari perubahan source code
 2. kolaborasi
 3. sharing
+
+Version Control System
+- sebuah sistem yang menyimpan rekaman/snapshot perubahan pada source code
+- memungkinkan bekerja berkolaborasi dengan lebih baik
+- mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
+- memungkinkan kita untuk kembali ke keadaan sebelum perubahan (checkout)
